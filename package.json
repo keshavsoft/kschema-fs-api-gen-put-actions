@@ -1,6 +1,6 @@
 {
   "name": "kschema-fs-api-gen-put-actions",
-  "version": "1.15.1",
+  "version": "1.15.2",
   "description": "start from end points js, generate put methods",
   "keywords": [
     "cli",
@@ -10,7 +10,7 @@
     "project-generator"
   ],
   "dependencies": {
-    "kschema-fs-api-gen-rest": "^1.6.2",
+    "kschema-fs-api-gen-rest": "^1.8.1",
     "express-fix-endpoints-put-js": "^1.1.1"
   },
   "type": "module",
