@@ -1,6 +1,6 @@
 {
   "name": "kschema-fs-api-gen-put-actions",
-  "version": "1.15.3",
+  "version": "1.15.4",
   "description": "start from end points js, generate put methods",
   "keywords": [
     "cli",
