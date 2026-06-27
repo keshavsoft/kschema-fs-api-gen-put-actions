@@ -21,5 +21,5 @@ const modify = async ({ toPath, showLog, toConfigPath, inTargetPath,
 };
 
 export {
-    withMail, modify
+    modify
 };
