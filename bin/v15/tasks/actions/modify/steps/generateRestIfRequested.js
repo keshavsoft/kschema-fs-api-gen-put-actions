@@ -31,7 +31,8 @@ export const generateRestIfRequested = ({
         toConfigPath,
         inTargetPath,
         toPath: restTargetPath,
-        inPort
+        inPort,
+        inMethod: "PUT"
     });
 
     showLog({
